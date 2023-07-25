@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
 <h3 align="center">A passionate Djnago backend developer from India</h3>
 <img  aligh="right"alt="code-omg" width="400" scr="https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700">"
