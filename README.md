@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
-<h3 align="center">A passionate Djnago backend developer from India</h3>
+<h3 align="center">A passionate Django backend developer from India</h3>
 
 <p align="left">
   <a href="https://twitter.com/_ritiksharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/_ritiksharmaaa?logo=twitter&style=for-the-badge" alt="_ritiksharmaaa" /></a> </p>
