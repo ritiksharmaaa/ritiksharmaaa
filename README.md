@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Ritik Sharma</h1>
 <h3 align="center">A passionate  backend developer from India </h3>
-<h3 align="center"> dajngo , MERN , DRF </h3>
+<h3 align="center"> dajngo , MERN , DRF, C++  </h3>
 
 <p align="left">
   <a href="https://twitter.com/_ritiksharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/_ritiksharmaaa?logo=twitter&style=for-the-badge" alt="_ritiksharmaaa" /></a> </p>
 
-- 🌱 I’m currently learning **Django , Reactjs , nextjs**
+- 🌱 I’m currently learning **Django , Reactjs , node js , C++ **
 
 - 📫 How to reach me **ritikworkmail18@gmail.com**
 
