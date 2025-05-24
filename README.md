@@ -6,7 +6,7 @@
 <p align="left">
   <a href="https://twitter.com/_ritiksharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/_ritiksharmaaa?logo=twitter&style=for-the-badge" alt="_ritiksharmaaa" /></a> </p>
 
-- 🌱 I’m currently learning **Django , Reactjs , node js , C++ **
+- 🌱 I’ know this technolog & programing **Django , Reactjs , node js , C++ **
 
 - 📫 How to reach me **ritikworkmail18@gmail.com**
 
